@@ -52,9 +52,6 @@ in working with {{page.domain %}} data in {{page.topic %}}.
 
 Data files for the workshop are available here: ({{page.dataurl %}})[{{page.dataurl %}}]
 
-
-<br>
-
 <h2>Requirements</h2>
 
 <p>
@@ -65,8 +62,6 @@ through this lesson requires working copies of the software described below.
 To most effectively use these materials, please make sure to install everything 
 <em>before</em> working through this lesson.
 </p>
-
-
 
 {% if page.software == "Python" %}
 {% include pythonSetup.html %}

@@ -5,7 +5,7 @@ title: Lesson Title
 minutes: 5
 ---
 
-## Learning Objectives 
+## Learning Objectives
 
     This is a block of objectives
 

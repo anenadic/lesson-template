@@ -74,7 +74,7 @@ To most effectively use these materials, please make sure to install everything
 {% include spreadsheetSetup.html %}
 {% elsif page.software == "R" %}
 {% include rSetup.html %}
-{% elsif page.software == "Shell" || page.software == "shell" %}
+{% elsif page.software == "Shell" %}
 {% include shellSetup.html %}
 {% else %}
 {% include anySetup.html %}
